@@ -7,7 +7,7 @@
 >>#### 開発環境
 >>エンジン: Unity  
 >>言語: C#  
->>使用アセット: 2D Tilemap Extras
+>>使用アセット: 2D Tilemap Extras  
 >実行環境:  
 >>OS: Windows 10  
 >>RAM: 8GB  

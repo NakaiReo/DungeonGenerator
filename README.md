@@ -28,7 +28,7 @@ AStarアルゴリズムを活用して部屋と部屋をつなぐアレンジを
 - 壁の生成  
   
 ## スクリーンショット
-![AStarなし(ScreenShot/s1.png)
+![AStarなし](ScreenShot/s1.png)
 ![AStarあり](ScreenShot/s2.png)
 ![設定項目](ScreenShot/s3.png)
 ![拡大](ScreenShot/s4.png)
